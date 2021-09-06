@@ -1,5 +1,3 @@
-import java.util.concurrent.TimeUnit;
-
 public class InterruptDemo implements Runnable {
     @Override
     public void run() {
